@@ -1,7 +1,7 @@
 {
+    "changes": "* Update to support Android 4.4.", 
     "description": "Miscellaneous native UI enhancements.\n\nThe ui module provides enhanced date/time selectors on Android.", 
     "name": "ui", 
-    "platform_version": "v2.0.0", 
-    "version": "2.1",
-    "changes": "* Update to support Android 4.4."
+    "platform_version": "v2.1.0", 
+    "version": "2.1"
 }
